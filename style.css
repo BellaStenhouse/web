@@ -1,2 +1,6 @@
-body { background-color: #98DBDD }
-h1 { font: "Garamond" }
+body { font-family: Garamond, serif; 
+      background-color: #98DBDD }
+h1 { color: #1E1F68 }
+h2 { border: thick double #ACA9EA }
+ol { font-style: italic }
+
